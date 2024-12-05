@@ -1,0 +1,15 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Time	 a b c d f
+10000	 1	 1	 1	 1	 1
+20000	 0	 0	 0	 1	 0
+30000	 0	 0	 1	 1	 0
+40000	 1	 0	 0	 0	 0
+50000	 1	 1	 0	 0	 0
+60000	 0	 0	 1	 0	 0
+70000	 0	 1	 1	 0	 0
+80000	 1	 0	 0	 1	 0
+90000	 1	 0	 1	 0	 0
+100000	 0	 1	 1	 0	 0
+110000	 0	 0	 0	 0	 0
+$finish called at time : 110 ns : File "/home/it/Documents/DCD_Labs/DSD_Lab1/Lab1/Lab_Project.srcs/sim_1/new/test_and4gate.sv" Line 52

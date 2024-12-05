@@ -1,0 +1,2 @@
+Breakpoint File Version 1.0
+29 true /home/it/Desktop/Lab_Project/Lab_Project.srcs/sources_1/new/andgate2.sv

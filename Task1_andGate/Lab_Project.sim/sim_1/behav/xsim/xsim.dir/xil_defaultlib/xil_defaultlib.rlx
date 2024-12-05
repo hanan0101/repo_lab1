@@ -1,0 +1,8 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/Documents/DCD_Labs/DSD_Lab1/Lab1/Lab_Project.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/Documents/DCD_Labs/DSD_Lab1/Lab1/Lab_Project.srcs/sim_1/new/test_and4gate.sv,1733424666,systemVerilog,,,,test_and4gate,,,,,,,,
+/home/it/Documents/DCD_Labs/DSD_Lab1/Lab1/Lab_Project.srcs/sources_1/new/andFourgate.sv,1733424080,systemVerilog,,/home/it/Documents/DCD_Labs/DSD_Lab1/Lab1/Lab_Project.srcs/sources_1/new/andGate.sv,,andFourgate,,,,,,,,
+/home/it/Documents/DCD_Labs/DSD_Lab1/Lab1/Lab_Project.srcs/sources_1/new/andGate.sv,1733424075,systemVerilog,,/home/it/Documents/DCD_Labs/DSD_Lab1/Lab1/Lab_Project.srcs/sim_1/new/test_and4gate.sv,,andGate,,,,,,,,
